@@ -23,3 +23,7 @@ for i in data:
 else:
     print('invalid item')
 cur.close()
+
+
+
+print("hello my name is something")
